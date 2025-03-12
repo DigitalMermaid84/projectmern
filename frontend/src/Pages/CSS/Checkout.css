@@ -1,0 +1,28 @@
+.checkout {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .checkout-summary {
+    border: 2px solid #ddd;
+    padding: 15px;
+    margin-top: 20px;
+  }
+  
+  .checkout-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 6px 0;
+  }
+  
+  button {
+    background-color: #ff6600;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
